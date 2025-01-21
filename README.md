@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 ## Get in Touch  
 
 - 🔗 **Portfolio**: [Coming Soon!]
-- 🎨 **LinkedIn**: [Connect with me](#)
+- 🎨 **LinkedIn**: www.linkedin/in/kartik-goyal-btech
 - 🎮 **GitHub Projects**: Explore my repositories for more creative works.
 
 ---
